@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ismail Adem Ali Ali 👋
 
-<!--
-**ahmedsalihcs-dev/ahmedsalihcs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Computer Science graduate interested in machine learning, software development, data analysis, and academic research.
 
-Here are some ideas to get you started:
+## Education
+- Bachelor’s degree in Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Java
+- SQL
+- Machine Learning
+- Data Analysis
+- Problem Solving
+
+## Interests
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Academic Research
+- Software Development
+
+## Goal
+I am seeking to advance my academic and professional career through graduate studies in Computer Science.
+
+## Contact
+- GitHub: [ahmedsalihcs-dev](https://github.com/ahmedsalihcs-dev)
