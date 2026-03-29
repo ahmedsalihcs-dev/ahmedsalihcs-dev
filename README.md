@@ -1,4 +1,4 @@
-# Hi, I'm Ismail Adem Ali Ali 👋
+# Hi, I'm Ahmed salih  👋
 
 ## About Me
 I am a Computer Science graduate interested in machine learning, software development, data analysis, and academic research.
